@@ -1,4 +1,4 @@
-name = "1"
+name = "o"
 type = "javascript"
 #account_id = "d1574ff4d207bc23602cc79fc78b7b2a"
 #account_id = "0de3674adef884f16d5803ba28ee6e13"
@@ -16,8 +16,3 @@ id = "cb1733383c35495d9b5c377da6507a02"
 TOKEN = "5227554923:AAFQVQCNbLkBmuymaTTCEOKmZQU7Sm9D76E"
  ALLOWED_CHAT_IDS = "5013012399,5043676235,-1001570134152,-1001739992180"
 
-[build]
-command = ""
-[build.upload]
-format = "modules"
-main = "./index.mjs"
